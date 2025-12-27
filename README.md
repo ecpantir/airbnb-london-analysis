@@ -37,6 +37,17 @@ Key insights discovered during the analysis:
 - Certain boroughs offer a strong balance between price and demand, making them attractive for investment.
 
 ---
+### Listings by Borough
+![Listings by Borough](01_listings_by_borough.png)
+
+### Listings by Room Type
+![Listings by Room Type](02_listings_by_room_type.png)
+
+### Average Price (Filtered)
+![Average Price](03_average_price_filtered.png)
+
+### Top Boroughs by Avg Price & Volume
+![Top Boroughs]( 04_top_boroughs_avg_price_volume.png)
 
 ## ✅ Final Recommendation
 Based on the analysis, investors should prioritize:
