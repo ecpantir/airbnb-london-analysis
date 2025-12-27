@@ -55,5 +55,5 @@ This approach maximizes revenue stability while reducing vacancy risk.
 ---
 
 ## 👤 Author
-Cristian Pantir  
+Elvis Cristian Pantir  
 Aspiring Data Analyst
